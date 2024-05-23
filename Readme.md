@@ -3,9 +3,10 @@
 This repo contains a modified version of the SMBLibrary-Client* ported into an SMBScanner that can be ran in memory.
 *https://github.com/SonnyX/SMB-Client/tree/master/SMBLibrary
 
-Eventually this will end up into some CME C# port... 
+Eventually this will end up into some CME C# port, this is only the first step since all the necessary functions for SMB are already available in the lib. 
 
-![sc](https://github.com/sweetpastabox/SharpScanSmb/assets/66618339/df606785-1a94-4a44-9381-5d47a0bc3050)
+![sc](https://github.com/sweetpastabox/SharpScanSMB/assets/66618339/7f11c880-b0d8-4d73-84e1-9b157e3d814a)
+
 
 
 ## Build
