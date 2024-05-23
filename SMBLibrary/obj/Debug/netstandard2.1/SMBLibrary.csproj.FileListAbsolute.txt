@@ -1,0 +1,12 @@
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\bin\Debug\netstandard2.1\SMBLibrary.deps.json
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\bin\Debug\netstandard2.1\SMBLibrary.dll
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\bin\Debug\netstandard2.1\SMBLibrary.pdb
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\bin\Debug\netstandard2.1\SMBLibrary.xml
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.csproj.AssemblyReference.cache
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.AssemblyInfoInputs.cache
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.AssemblyInfo.cs
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.dll
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.xml
+C:\Users\marin.francois\Desktop\SMB-Client\SMBLibrary\obj\Debug\netstandard2.1\SMBLibrary.pdb

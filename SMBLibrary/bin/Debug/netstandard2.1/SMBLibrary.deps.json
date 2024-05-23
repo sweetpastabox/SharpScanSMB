@@ -1,0 +1,35 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "SMBLibrary/1.4.12": {
+        "dependencies": {
+          "IDisposableAnalyzers": "3.4.13"
+        },
+        "runtime": {
+          "SMBLibrary.dll": {}
+        }
+      },
+      "IDisposableAnalyzers/3.4.13": {}
+    }
+  },
+  "libraries": {
+    "SMBLibrary/1.4.12": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDisposableAnalyzers/3.4.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JsOSVDyCPMsiaPZLrdtNKmkSSfMvOsHq5JKPUOF2jg+zN8t/Vn1yLiO6BMZGD1NlhIQ5prS6D9LuLOu3FT6CpA==",
+      "path": "idisposableanalyzers/3.4.13",
+      "hashPath": "idisposableanalyzers.3.4.13.nupkg.sha512"
+    }
+  }
+}

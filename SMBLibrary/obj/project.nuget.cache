@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s740kDQqyQMjESKC7icnIydvLCMEBJmyEHqN4Z6AC+puF0WcxmfS92+dv278U8SEbcb0rrWVWhJT35/s6j24aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marin.francois\\Desktop\\CIS Benchmarks\\HELP_FR\\SharpScanSmb\\SharpScanSmb\\SMBLibrary\\SMBLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marin.francois\\.nuget\\packages\\idisposableanalyzers\\3.4.13\\idisposableanalyzers.3.4.13.nupkg.sha512"
+  ],
+  "logs": []
+}

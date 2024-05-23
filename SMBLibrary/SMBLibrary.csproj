@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>SMBLibrary</RootNamespace>
+    <AssemblyName>SMBLibrary</AssemblyName>
+    <PackOnBuild>true</PackOnBuild>
+
+    <Authors>Randy von der Weide</Authors>
+    <PackageId>SMB-Client</PackageId>
+    <Product>SMB-Client</Product>
+    <RepositoryType>git</RepositoryType>
+
+    <RepositoryUrl>https://github.com/SonnyX/SMB-Client</RepositoryUrl>
+    <PackageTags>smb smb-client</PackageTags>
+    <Version>1.4.12</Version>
+
+    <Description>Free, Open Source, User-Mode SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 Client Library</Description>
+    <Nullable>Enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <IncludeSymbols>true</IncludeSymbols>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IDisposableAnalyzers" Version="3.4.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+</Project>

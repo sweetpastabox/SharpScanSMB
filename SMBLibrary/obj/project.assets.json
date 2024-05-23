@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "IDisposableAnalyzers/3.4.13": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "IDisposableAnalyzers/3.4.13": {
+      "sha512": "JsOSVDyCPMsiaPZLrdtNKmkSSfMvOsHq5JKPUOF2jg+zN8t/Vn1yLiO6BMZGD1NlhIQ5prS6D9LuLOu3FT6CpA==",
+      "type": "package",
+      "path": "idisposableanalyzers/3.4.13",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/Gu.Roslyn.Extensions.dll",
+        "analyzers/dotnet/cs/IDisposableAnalyzers.dll",
+        "idisposableanalyzers.3.4.13.nupkg.sha512",
+        "idisposableanalyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "IDisposableAnalyzers >= 3.4.13"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marin.francois\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.4.12",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marin.francois\\Desktop\\CIS Benchmarks\\HELP_FR\\SharpScanSmb\\SharpScanSmb\\SMBLibrary\\SMBLibrary.csproj",
+      "projectName": "SMB-Client",
+      "projectPath": "C:\\Users\\marin.francois\\Desktop\\CIS Benchmarks\\HELP_FR\\SharpScanSmb\\SharpScanSmb\\SMBLibrary\\SMBLibrary.csproj",
+      "packagesPath": "C:\\Users\\marin.francois\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marin.francois\\Desktop\\CIS Benchmarks\\HELP_FR\\SharpScanSmb\\SharpScanSmb\\SMBLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\marin.francois\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "dependencies": {
+          "IDisposableAnalyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.4.13, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
